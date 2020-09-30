@@ -8,7 +8,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "keywords": [],
+  "keywords": ["json-server,heroku, node, REST API"],
   "author": "",
   "license": "ISC",
   "dependencies": {
