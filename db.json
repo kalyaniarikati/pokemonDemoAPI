@@ -1,0 +1,52 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "magneton",
+      "url": "https://pokeapi.co/api/v2/pokemon-form/82/",
+      "types": [
+        {
+          "slot": 1,
+          "type": "[Object]"
+        },
+        {
+          "slot": 2,
+          "type": "[Object]"
+        }
+      ],
+      "image": "https://pokeres.bastionbot.org/images/pokemon/82.png"
+    },
+    {
+      "id": 2,
+      "name": "vulpix",
+      "types": [
+        {
+          "slot": 1,
+          "type": "[Object]"
+        }
+      ],
+      "image": "https://pokeres.bastionbot.org/images/pokemon/82.png"
+    },
+    {
+      "id": 3,
+      "name": "pinsir",
+      "types": [
+        {
+          "slot": 1,
+          "type": "[Object]"
+        },
+        {
+          "slot": 2,
+          "type": "[Object]"
+        }
+      ],
+      "image": "https://pokeres.bastionbot.org/images/pokemon/127.png"
+    },
+    {
+      "id": 4,
+      "name": "slowbro",
+      "url": "https://pokeapi.co/api/v2/pokemon/80/",
+      "image": "https://pokeres.bastionbot.org/images/pokemon/80.png"
+    }
+  ]
+}
